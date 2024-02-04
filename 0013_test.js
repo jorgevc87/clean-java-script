@@ -15,7 +15,6 @@ Para ejecutar tests:
 npm run test:watch
 npm run test:coverage
 
-
 */
 
 test('return zero if receive one', () => {
